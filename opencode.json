@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "enabled_providers": [
+    "yumeyuki-anthropic",
+    "yumeyuki-openai",
+    "yumeyuki-google"
+  ],
+  "plugin": [
+    "oh-my-opencode"
+  ]
+}
